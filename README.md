@@ -7,7 +7,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/csharp.svg" width="48" height="48" alt="C#" />
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/csharp.svg" width="48" height="48" alt="C Sharp" />
       </a>
       <br>C#&nbsp;
     </td>
@@ -19,7 +19,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/cpp.svg" width="48" height="48" alt="C ++" />
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/cpp.svg" width="48" height="48" alt="CPP" />
       </a>
       <br>C
     </td>
