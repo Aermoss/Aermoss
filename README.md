@@ -2,6 +2,12 @@
 
 Contact: yusufrencber539@gmail.com
 
+## Interests ⚡ ##
+
+ <img align="right" alt="GIF" src="https://github.com/TahaMetin/TahaMetin/blob/main/code.gif" width="500" height="320" />
+ 
+- Programming
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
 ## Languages and Tools 🧰
