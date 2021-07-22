@@ -4,7 +4,7 @@ Contact: yusufrencber539@gmail.com
 
 ## Interests ⚡ ##
 
- <img align="right" alt="GIF" src="https://github.com/Aermoss/Aermoss/blob/main/coding.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Aermoss/Aermoss/blob/main/coding.gif" width="400" height="256" />
  
 - Programming
 
