@@ -13,6 +13,18 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/c.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/cpp.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -22,12 +34,6 @@
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/java.svg" width="48" height="48" alt="Java" />
       </a>
       <br>java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/c.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
