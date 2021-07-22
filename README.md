@@ -53,7 +53,7 @@ Contact: yusufrencber539@gmail.com
       <a href="#macropower-tech" >
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/visualstudiocode.svg" width="48" height="48" alt="Visual Stuido Code" />
       </a>
-      <br>Visual Studio
+      <br>Visual Studio Code
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
