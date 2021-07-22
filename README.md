@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=onedark)
 
 ## Languages and Tools 🧰
 <table>
