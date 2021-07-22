@@ -4,7 +4,7 @@ Contact: yusufrencber539@gmail.com
 
 ## Interests ⚡ ##
 
- <img align="right" alt="GIF" src="https://github.com/TahaMetin/TahaMetin/blob/main/code.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Aermoss/Aermoss/blob/main/code.gif" width="500" height="320" />
  
 - Programming
 
