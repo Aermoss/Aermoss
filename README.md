@@ -19,9 +19,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/cpp.svg" width="48" height="48" alt="Cpp" />
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/cpp.svg" width="48" height="48" alt="C++"/>
       </a>
-      <br>C
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -33,7 +33,7 @@
       <a href="#macropower-tech">
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>java
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
