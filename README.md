@@ -2,17 +2,17 @@
 
 Contact: aermoss.py@gmail.com
 
-## Interests ⚡ ##
+## Interests ⚡
 
  <img align="right" alt="GIF" src="https://github.com/Aermoss/Aermoss/blob/main/coding.gif" width="384" height="256" style="border:5px solid black"/>
- 
+
 - Programming
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
-## Games I developed 🎮
-- AerBlock -- [source code](https://github.com/Aermoss/AerBlock_V0.1.4) -- (Developed With Python)
-- AerBlock Online -- [source code](https://github.com/Aermoss/AerBlock_Online_V0.1.0_Beta) -- (Developed With Python)
+## Games I Developed 🎮
+- AerBlock -- [Source Code](https://github.com/Aermoss/AerBlock_V0.1.4) -- (Developed With Python)
+- AerBlock Online -- [Source Code](https://github.com/Aermoss/AerBlock_Online_V0.1.0_Beta) -- (Developed With Python)
 
 ## Languages and Tools 🧰
 <table>
