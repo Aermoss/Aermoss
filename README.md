@@ -4,7 +4,7 @@ Contact: aermoss.py@gmail.com
 
 ## Interests ⚡
 
- <img align="right" alt="GIF" src="https://github.com/Aermoss/Aermoss/blob/main/coding.gif" width="400" height="284" style="border:5px solid black"/>
+ <img align="right" alt="GIF" src="https://github.com/Aermoss/Aermoss/blob/main/coding.gif" width="400" height="300" style="border:5px solid black"/>
 
 - Programming
 
