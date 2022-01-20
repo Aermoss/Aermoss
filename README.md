@@ -12,7 +12,7 @@ Contact: aermoss.py@gmail.com
 
 ## Games I Developed 🎮
 - AerBlock -- [To Play](https://aermoss.itch.io/aerblock) -- (Developed With Python)
-- AerBlock Remastered -- [To Play](github.com/Aermoss/AerBlock_Remastered/releases/latest) -- (Developed With Python)
+- AerBlock Remastered -- [To Play](https://github.com/Aermoss/AerBlock_Remastered/releases/latest) -- (Developed With Python)
 
 ## Languages and Tools 🧰
 <table>
