@@ -11,7 +11,8 @@ Contact: aermoss.py@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
 ## Games I Developed 🎮
-- AerBlock V0.1.8b2 -- [To Play](https://aermoss.itch.io/aerblock) -- Includes Online Mode -- (Developed With Python)
+- AerBlock -- [To Play](https://aermoss.itch.io/aerblock) -- (Developed With Python)
+- AerBlock Remastered -- [To Play](github.com/Aermoss/AerBlock_Remastered/releases/latest) -- (Developed With Python)
 
 ## Languages and Tools 🧰
 <table>
