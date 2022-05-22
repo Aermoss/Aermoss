@@ -10,7 +10,7 @@ Contact: aermoss.0@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
-## Programming Languages I Developed ⚙️
+## Programming Languages I Developed 🔤
 - [R#](https://github.com/Aermoss/RSharp)
 - [AeNC](https://github.com/Aermoss/AeNC)
 - [AeNCPP](https://github.com/Aermoss/AeNCPP)
