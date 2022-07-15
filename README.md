@@ -15,6 +15,7 @@ Contact: aermoss.0@gmail.com
 - [AeNC](https://github.com/Aermoss/AeNC)
 - [AeNCPP](https://github.com/Aermoss/AeNCPP)
 - [AeC](https://github.com/Aermoss/AeC)
+- [SimpleCompiler](https://github.com/Aermoss/SimpleCompiler)
 
 ## Game Engines I Developed ⚙️
 - [AerForge](https://github.com/Aermoss/AerForge)
