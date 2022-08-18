@@ -23,6 +23,7 @@ Youtube: [Aus.](https://www.youtube.com/c/AusXAfk)
 - [Forge S](https://github.com/Aermoss/ForgeS)
 
 ## Games I Developed 🎮
+- [Crawl](https://github.com/Aermoss/Crawl/releases/latest)
 - [AerBlock](https://aermoss.itch.io/aerblock)
 - [AerBlock Remastered](https://github.com/Aermoss/AerBlock_Remastered/releases/latest)
 - [Isometric Lands](https://aermoss.itch.io/isometric-lands)
