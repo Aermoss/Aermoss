@@ -15,7 +15,6 @@ Youtube: [Aus.](https://www.youtube.com/c/AusXAfk)
 - [R#](https://github.com/Aermoss/RSharp)
 - [AeNC](https://github.com/Aermoss/AeNC)
 - [AeNCPP](https://github.com/Aermoss/AeNCPP)
-- [AeC](https://github.com/Aermoss/AeC)
 - [SimpleCompiler](https://github.com/Aermoss/SimpleCompiler)
 
 ## Game Engines I Developed ⚙️
