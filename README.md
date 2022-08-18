@@ -17,6 +17,9 @@ Youtube: [Aus.](https://www.youtube.com/c/AusXAfk)
 - [AeNCPP](https://github.com/Aermoss/AeNCPP)
 - [SimpleCompiler](https://github.com/Aermoss/SimpleCompiler)
 
+## Operating Systems I Developed 🧑‍💻
+- [OSTest](https://github.com/Aermoss/OSTest)
+
 ## Game Engines I Developed ⚙️
 - [VEGAEngine](https://github.com/Aermoss/VEGAEngine)
 - [AerForge](https://github.com/Aermoss/AerForge)
