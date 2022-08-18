@@ -18,6 +18,7 @@ Youtube: [Aus.](https://www.youtube.com/c/AusXAfk)
 - [SimpleCompiler](https://github.com/Aermoss/SimpleCompiler)
 
 ## Game Engines I Developed ⚙️
+- [VEGAEngine](https://github.com/Aermoss/VEGAEngine)
 - [AerForge](https://github.com/Aermoss/AerForge)
 - [Forge S](https://github.com/Aermoss/ForgeS)
 
