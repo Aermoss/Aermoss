@@ -7,7 +7,7 @@ Youtube: [Aus.](https://www.youtube.com/c/AusXAfk)
 
  <img align="right" alt="GIF" src="https://github.com/Aermoss/Aermoss/blob/main/coding.gif" width="386" height="286" style="border:5px solid black"/>
 
-- Programming
+- Low Level (close to the hardware) Programming
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
