@@ -12,7 +12,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
 ## Programming Languages I Developed 🔤
-- [R#](https://github.com/Aermoss/RSharp)
+- [R#](https://github.com/Aermoss/RSX)
 - [AeNC](https://github.com/Aermoss/AeNC)
 - [AeNCPP](https://github.com/Aermoss/AeNCPP)
 - [SimpleCompiler](https://github.com/Aermoss/SimpleCompiler)
