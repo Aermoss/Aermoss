@@ -14,6 +14,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 ## Programming Languages I Developed 🔤
 - [R#](https://github.com/Aermoss/RSX)
 - [R#-TR](https://github.com/Aermoss/RSX-TR)
+- [BrainFuck](https://github.com/Aermoss/BrainFuck)
 - [AeNC](https://github.com/Aermoss/AeNC)
 - [AeNCPP](https://github.com/Aermoss/AeNCPP)
 - [SimpleCompiler](https://github.com/Aermoss/SimpleCompiler)
