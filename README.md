@@ -12,8 +12,8 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
 ## Programming Languages I Developed 🔤
-- [R#](https://github.com/Aermoss/RSX)
-- [R#-TR](https://github.com/Aermoss/RSX-TR)
+- [RSX](https://github.com/Aermoss/RSX)
+- [RSX-TR](https://github.com/Aermoss/RSX-TR)
 - [BrainFuck](https://github.com/Aermoss/BrainFuck)
 - [BrainFuck-Compiler](https://github.com/Aermoss/BrainFuck-Compiler)
 - [AeNC](https://github.com/Aermoss/AeNC)
