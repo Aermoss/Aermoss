@@ -13,6 +13,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 
 ## Programming Languages I Developed 🔤
 - [RSX](https://github.com/Aermoss/RSX)
+- [RSX-R](https://github.com/Aermoss/RSX-R)
 - [RSX-TR](https://github.com/Aermoss/RSX-TR)
 - [BrainFuck](https://github.com/Aermoss/BrainFuck)
 - [BrainFuck-Compiler](https://github.com/Aermoss/BrainFuck-Compiler)
