@@ -82,15 +82,15 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/photoshop.svg" width="48" height="48" alt="Photoshop" />
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/photoshop.svg" width="48" height="48" alt="Adobe Photoshop" />
       </a>
-      <br>Photoshop
+      <br>Adobe Photoshop
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/aftereffects.svg" width="48" height="48" alt="After Effects" />
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/aftereffects.svg" width="48" height="48" alt="Adobe After Effects" />
       </a>
-      <br>After Effects
+      <br>Adobe After Effects
     </td>
   </tr>
 </table>
