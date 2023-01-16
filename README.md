@@ -39,55 +39,55 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.python.org">
+      <a href="https://dotnet.microsoft.com/languages/csharp">
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/csharp.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/c.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B">
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/cpp.svg" width="48" height="48" alt="C++"/>
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.python.org">
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.java.com/">
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/java.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="visualstudio.microsoft.com/vs/" >
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/visualstudio.svg" width="48" height="48" alt="Visual Stuido 2022" />
       </a>
       <br>Visual Studio 2022
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://code.visualstudio.com" >
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/visualstudiocode.svg" width="48" height="48" alt="Visual Stuido Code" />
       </a>
       <br>Visual Studio Code
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://www.adobe.com/products/photoshop.html" >
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/photoshop.svg" width="48" height="48" alt="Adobe Photoshop" />
       </a>
       <br>Adobe Photoshop
     </td>
    <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://www.adobe.com/products/aftereffects.html" >
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/aftereffects.svg" width="48" height="48" alt="Adobe After Effects" />
       </a>
       <br>Adobe After Effects
