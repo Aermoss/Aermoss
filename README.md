@@ -70,9 +70,9 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/visualstudio.svg" width="48" height="48" alt="Visual Stuido" />
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/visualstudio.svg" width="48" height="48" alt="Visual Stuido 2022" />
       </a>
-      <br>Visual Studio
+      <br>Visual Studio 2022
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
