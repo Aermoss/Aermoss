@@ -40,6 +40,12 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/csharp.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/c.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
