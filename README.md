@@ -69,7 +69,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="visualstudio.microsoft.com/vs/" >
+      <a href="https://visualstudio.microsoft.com/vs/" >
         <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/visualstudio.svg" width="48" height="48" alt="Visual Stuido 2022" />
       </a>
       <br>Visual Studio 2022
