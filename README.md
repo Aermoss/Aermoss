@@ -1,4 +1,4 @@
-### Hi There 👋 I'm Yusuf Rençber
+### Hi There 👋 I'm Yusuf
 
 Contact: aermoss.0@gmail.com <br>
 Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
