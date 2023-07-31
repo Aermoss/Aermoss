@@ -23,6 +23,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 - [OSTest](https://github.com/Aermoss/OSTest)
 
 ## Game Engines I Developed ⚙️
+- [Nickel II](https://github.com/Aermoss/Nickel2)
 - [Moss](https://github.com/Aermoss/Moss)
 - [VEGAEngine](https://github.com/Aermoss/VEGAEngine)
 - [AerForge](https://github.com/Aermoss/AerForge)
