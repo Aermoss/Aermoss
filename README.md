@@ -11,8 +11,6 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
-<a href="https://www.buymeacoffee.com/Aermoss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 ## Programming Languages I Developed 🔤
 - [RSX](https://github.com/Aermoss/RSX)
 - [RSX-R](https://github.com/Aermoss/RSX-R)
