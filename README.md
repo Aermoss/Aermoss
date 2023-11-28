@@ -24,6 +24,8 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 
 ## Game Engines I Developed ⚙️
 - [Nickel II](https://github.com/Aermoss/Nickel2)
+- Nickel
+- Radium
 - [Moss](https://github.com/Aermoss/Moss)
 - [VEGA](https://github.com/Aermoss/VEGA)
 - [Forge](https://github.com/Aermoss/Forge)
