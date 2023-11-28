@@ -25,12 +25,14 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 ## Game Engines I Developed ⚙️
 - [Nickel II](https://github.com/Aermoss/Nickel2)
 - [Moss](https://github.com/Aermoss/Moss)
-- [VEGAEngine](https://github.com/Aermoss/VEGAEngine)
+- [VEGAEngine](https://github.com/Aermoss/VEGA)
 - [AerForge](https://github.com/Aermoss/AerForge)
 - [Forge S](https://github.com/Aermoss/ForgeS)
 
 ## Games I Developed 🎮
-- [Crawl](https://github.com/Aermoss/Crawl/releases/latest)
+- Afterburner (coming out on steam soon)
+- [AerBlock Remake](https://github.com/Aermoss/AerBlock-Remake)
+- [Crawl](https://github.com/Aermoss/Crawl)
 
 ## Languages and Tools 🧰
 <table>
