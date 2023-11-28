@@ -17,8 +17,8 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 - [RSX-R](https://github.com/Aermoss/RSX-R)
 - [RSX-TR](https://github.com/Aermoss/RSX-TR)
 - [BrainFuck](https://github.com/Aermoss/BrainFuck)
-- [BrainFuck-Compiler](https://github.com/Aermoss/BrainFuck-Compiler)
-- [SimpleCompiler](https://github.com/Aermoss/SimpleCompiler)
+- [BrainFuck Compiler](https://github.com/Aermoss/BrainFuck-Compiler)
+- [Simple Compiler](https://github.com/Aermoss/SimpleCompiler)
 
 ## Operating Systems I Developed 🧑‍💻
 - [OSTest](https://github.com/Aermoss/OSTest)
