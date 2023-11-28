@@ -12,6 +12,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
 ## Programming Languages I Developed 🔤
+- Revenant [WIP]
 - [RSX](https://github.com/Aermoss/RSX)
 - [RSX-R](https://github.com/Aermoss/RSX-R)
 - [RSX-TR](https://github.com/Aermoss/RSX-TR)
