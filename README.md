@@ -12,7 +12,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aermoss&theme=github_dark)
 
 ## Programming Languages I Developed 🔤
-- Revenant [WIP]
+- Revenant (in development)
 - [RSX](https://github.com/Aermoss/RSX)
 - [RSX-R](https://github.com/Aermoss/RSX-R)
 - [RSX-TR](https://github.com/Aermoss/RSX-TR)
@@ -25,7 +25,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 
 ## Game Engines I Developed ⚙️
 - [Nickel II](https://github.com/Aermoss/Nickel2)
-- Nickel
+- Nickel I
 - Radium
 - [Moss](https://github.com/Aermoss/Moss)
 - [VEGA](https://github.com/Aermoss/VEGA)
