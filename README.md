@@ -35,7 +35,7 @@ Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
 - [Forge S](https://github.com/Aermoss/ForgeS)
 
 ## Games I Developed 🎮
-- Afterburner (coming out on steam soon)
+- [Afterburner](https://store.steampowered.com/app/2706260) (coming out on steam soon)
 - [AerBlock Remake](https://github.com/Aermoss/AerBlock-Remake)
 - [Crawl](https://github.com/Aermoss/Crawl)
 
