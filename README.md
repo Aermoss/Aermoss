@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yusuf.
 
 Contact: aermoss.0@gmail.com <br>
-Youtube: [Aus.](https://www.youtube.com/c/Ausraid)
+Youtube: [Aus.](https://youtube.com/@ausreich)
 
 ## Interests ⚡
 
