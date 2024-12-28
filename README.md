@@ -25,6 +25,7 @@ Youtube: [Aus.](https://youtube.com/@ausreich)
 - [OSTest](https://github.com/Aermoss/OSTest)
 
 ## Game Engines I Developed ⚙️
+- Nickel III
 - [Nickel II](https://github.com/Aermoss/Nickel2)
 - Nickel I
 - Radium
